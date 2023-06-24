@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
+hjkgldhjsklaafadsa
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 ### Code Splitting
@@ -13,6 +13,18 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
 e Scripts
+
+In the prd optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\e Scripts
+
+In the prd optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\e Scripts
+
+In the prd optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\e Scripts
 
 In the prd optimizes the build for the best performance.
 
@@ -38,10 +50,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 ### Making a Progressive Web App
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
 
